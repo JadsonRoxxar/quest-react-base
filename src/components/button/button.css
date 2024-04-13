@@ -1,0 +1,12 @@
+button {
+    background-color: #61dafb;
+    color: rgb(65, 63, 63);
+    font-weight: bold;
+    border: solid 3px #07d1e0;
+    border-radius: 7px;
+    height: 25px;
+}
+
+button:hover {
+    border: solid 2px #b904eb;
+}
