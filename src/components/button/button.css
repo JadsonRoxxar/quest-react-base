@@ -9,4 +9,5 @@ button {
 
 button:hover {
     border: solid 2px #b904eb;
+    cursor: pointer;
 }
