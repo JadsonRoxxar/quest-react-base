@@ -15,7 +15,7 @@ class Button extends React.Component {
 }
 Button.propTypes = {
     label: Proptypes.string.isRequired,
-    pressButton: Proptypes.element.isRequired,
+    pressButton: Proptypes.func.isRequired,
 };
 Button.defaultProps = {
     label: "Download CV",
